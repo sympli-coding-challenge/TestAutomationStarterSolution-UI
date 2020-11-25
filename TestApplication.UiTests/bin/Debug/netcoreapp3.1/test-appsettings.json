@@ -1,0 +1,4 @@
+{
+  "seleniumBaseUrl": "https://localhost:5001",
+  "browser": ""
+}
